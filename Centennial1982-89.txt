@@ -1,0 +1,9 @@
+ ICAT  ISOL yr  mon day  hr min sec  glat   glon   dep  greg ntel mag1 msc1 mdo1 mag2 msc2 mdo2  mag3 msc3 mdo3 mag4 msc4 mdo4 mag4 msc4 mdo4 
+ EHB   DEQM 1980  9 15   4 28 12.87  -61.416 -56.601  19.6 154 180 5.9 Mw HRV   5.8 Ms ISC   5.7 UK BRK   5.7 mb ISC   5.8 mb NEIS
+ EHB   FEQM 1981  4  9   8 37 12.42  -59.803 150.277  15.0 701 131 6.4 Mw HRV   6.2 Ms ISC   6.2 Ms NEIS  5.6 mb ISC   6.1 mb NEIS
+ EHB   DEQM 1984  8 24  16 53  8.36  -58.998 -16.622   6.4 732  76 5.8 Mw HRV   5.5 Ms ISC   5.5 Ms NEIS  5.5 mb ISC   5.8 mb NEIS
+ EHB   FEQM 1984 12 31  21 42 12.67  -60.060 153.313  10.0 701  40 6.0 Mw HRV   5.5 Ms ISC   5.2 Ms NEIS  5.3 mb ISC   5.4 mb NEIS
+ EHB   FEQM 1985  1 31   6 35 10.13  -62.188 163.473  10.0 702  65 5.8 Mw HRV   6.0 Ms ISC   6.1 Ms NEIC  5.4 mb ISC   5.6 mb NEIC
+ EHB   DEQM 1986  5  5  10 32  7.51  -58.845 -24.959  16.2 153  74 5.8 Mw HRV   5.2 Ms ISC   5.3 Ms NEIC  5.2 mb ISC   5.4 mb NEIC
+ EHB  ZFEQM 1989  1  6  23 20  5.45  -65.502 177.924  10.0 702   5 5.8 Mw HRV   5.2 Ms ISC   5.0 mb ISC   0.0 NA NA    0.0 NA NA       
+ EHB   FEQM 1989 10 15  10  5  7.96  -60.359 150.216  15.0 701  58 6.0 Mw HRV   5.8 Ms ISC   5.8 Ms NEIC  5.1 mb ISC   5.2 mb NEIC
